@@ -1,6 +1,3 @@
-# Notas-ou-Materiais_Haskell
-O nome já diz tudo :3
-
 ## Pré-requisitos
 * **Conta no Replit:** Você precisará de uma conta no Replit para executar este projeto.
 * **Conhecimento básico de Haskell:** É recomendado ter conhecimentos básicos da linguagem Haskell para entender o código.
@@ -25,4 +22,4 @@ O nome já diz tudo :3
 * thayllaa
 
 ## Agradecimentos
-Agradecimentos especiais a @marjciardullo, minha melhor amiga e colega de estudos.
+Agradecimentos especiais a [@marjciardullo](https://github.com/marjciardullo), minha melhor amiga e colega de estudos.
